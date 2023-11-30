@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-I'm a Computer Science student, with interest for Software Development area. My objective is gain experience on I.T to be a professional even more capable.<br>🤝 I’m looking for a Intern job.<br>🌱 I’m currently learning JavaScript, JAVA and MySQL.
+I'm a Computer Science student, with interest for Software Engineer area. My objective is gain experience on I.T to be a professional even more capable.<br>🌱 I’m currently learning Java and Angular.
 
 
 ## 🌐 Socials:

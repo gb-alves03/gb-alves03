@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-📚I'm a Computer Science student, with interest for Software Engineer area. My objective is gain experience on I.T to be a professional even more capable.<br>🌱 I’m currently learning Java driven to Test Automation.<br> 🧑🏾‍💻 I'm currently working at Santander as Software QA Intern ♨️
+📚I'm a Computer Science student, with interest for Software Engineer area. My objective is gain experience on I.T to be a professional even more capable.<br>🌱 I’m currently learning Back-end development with Java, Spring Boot to Rest API, Microservices and Messaging.<br> 🧑🏾‍💻 I'm currently working at Santander as Software Developer Intern ♨️
 
 
 ## 🌐 Socials:

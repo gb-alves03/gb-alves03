@@ -22,7 +22,7 @@ And also about the following Design Patterns:
 > Builder <br>
 > Singleton
 
-# 💻 What am I studying?:
+# 🧑🏾‍💻 What am I studying?:
 [![My Skills](https://skillicons.dev/icons?i=spring,gherkin,selenium)](https://skillicons.dev)
 > Spring Boot <br>
 > Spring Framework <br>

@@ -5,24 +5,18 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gb_alves6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-alves-dev/) 
+[![My Social Media](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gb_alves6) [![My Social Media](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-henrique-alves-dev/) 
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-# 💻 Databases:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,gherkin,selenium)](https://skillicons.dev)
 
 
 # 💻 What am I studying?:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gherkin,selenium)](https://skillicons.dev)
 
 # Tools:
-![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=007ACC&labelColor=0D1117)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,gitlab,github,git)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gb-alves03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>

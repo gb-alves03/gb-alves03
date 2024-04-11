@@ -11,9 +11,22 @@
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,gherkin,selenium)](https://skillicons.dev)
 
+Here you'll find some of my projects focused in the following technologies:
+> Java <br>
+> Spring Boot (Web, Data, JPA, Security) <br>
+> Relational Databases (Oracle SQL, MySQL, Postgres, SQLite) <br>
+> Automated Tests (Selenium, Rest Assured, Cucumber) 
+
+And also about the following Design Patterns:
+> Data Transfer Object <br>
+> Builder <br>
+> Singleton
 
 # 💻 What am I studying?:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,gherkin,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,gherkin,selenium)](https://skillicons.dev)
+> Spring Boot <br>
+> Spring Framework <br>
+> Automated Tests (Selenium, Rest Assured, Cucumber)
 
 # Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,gitlab,github,git)](https://skillicons.dev)

@@ -23,9 +23,11 @@ And also about the following Design Patterns:
 > Singleton
 
 # 🧑🏾‍💻 What am I studying?:
-[![My Skills](https://skillicons.dev/icons?i=spring,gherkin,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,docker,aws,gherkin,selenium)](https://skillicons.dev)
 > Spring Boot <br>
 > Spring Framework <br>
+> Docker <br>
+> AWS <br>
 > Automated Tests (Selenium, Rest Assured, Cucumber)
 
 # Tools:

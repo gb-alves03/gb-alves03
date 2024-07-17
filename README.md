@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-📚I'm a Computer Science student, with interest for Software Engineer area. My objective is gain experience on I.T to be a professional even more capable.<br>🌱 I’m currently learning Backend development with Java with Spring, Microservices and Messaging.<br> 🧑🏾‍💻 I'm currently working at Santander as Software Developer Intern ♨️
+📚I'm a Computer Science student, with interest for Software Engineer area. My objective is gain experience as a Backend developer to be a professional even more capable.<br>🌱 I’m currently learning Backend development with Java with Spring, Microservices and Messaging.<br> 🧑🏾‍💻 I'm currently working at Santander as Software Developer Intern ♨️
 
 
 ## 🌐 Socials:
@@ -9,26 +9,25 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,gherkin,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws)](https://skillicons.dev)
 
 Here you'll find some of my projects focused in the following technologies:
 > Java <br>
-> Spring Boot (Web, Data, JPA, Security) <br>
-> Relational Databases (Oracle SQL, MySQL, Postgres, SQLite) <br>
-> Automated Tests (Selenium, Rest Assured, Cucumber) 
+> Spring Framework (Spring Boot, Spring Data JPA, Spring Security) <br>
+> Relational Databases (Oracle SQL, MySQL, PostgreSQL, H2 Database) <br>
+> Non-relational Databases (MongoDB) <br>
+> Automated Tests (Selenium, Rest Assured, Appium) 
 
 And also about the following Design Patterns:
 > Data Transfer Object <br>
-> Builder <br>
 > Singleton
 
 # 🧑🏾‍💻 What am I studying?:
-[![My Skills](https://skillicons.dev/icons?i=spring,docker,aws,gherkin,selenium)](https://skillicons.dev)
-> Spring Boot <br>
-> Spring Framework <br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws)](https://skillicons.dev)
+> Java <br>
+> Spring Framework (Spring Boot, Spring Data JPA, Spring Security) <br>
 > Docker <br>
 > AWS <br>
-> Automated Tests (Selenium, Rest Assured, Cucumber)
 
 # Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,gitlab,github,git)](https://skillicons.dev)

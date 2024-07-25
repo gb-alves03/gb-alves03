@@ -9,7 +9,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,rabbitmq,docker,aws)](https://skillicons.dev)
 
 Here you'll find some of my projects focused in the following technologies:
 > Java <br>
@@ -23,9 +23,11 @@ And also about the following Design Patterns:
 > Singleton
 
 # 🧑🏾‍💻 What am I studying?:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws,rabbitmq,kafka)](https://skillicons.dev)
 > Java <br>
 > Spring Framework (Spring Boot, Spring Data JPA, Spring Security) <br>
+> Microservices Architecture <br>
+> Messaging <br>
 > Docker <br>
 > AWS <br>
 

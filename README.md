@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-📚I'm a Computer Science student, with interest for Software Engineer area. My objective is gain experience as a Backend developer to be a professional even more capable.<br>🌱 I’m currently learning Backend development with Java with Spring, Microservices and Messaging.<br> 🧑🏾‍💻 I'm currently working at Santander as Software Developer Intern ♨️
+📚I'm a Computer Science student, with interest for Software Engineer area. My objective is gain experience as a Backend developer to be a professional even more capable.<br>🌱 I’m currently learning and developing autonomous Back-end projects with Java with Spring, Microservices, Messaging and Cloud AWS.<br> 🧑🏾‍💻 I'm currently working at Santander as Software Developer Intern ♨️
 
 
 ## 🌐 Socials:
@@ -13,25 +13,26 @@
 
 Here you'll find some of my projects focused in the following technologies:
 > Java <br>
-> Spring Framework (Spring Boot, Spring Data JPA, Spring Security) <br>
+> Spring Framework (Spring Boot, Spring Data, Spring Security, Spring Cloud) <br>
 > Relational Databases (Oracle SQL, MySQL, PostgreSQL, H2 Database) <br>
 > Non-relational Databases (MongoDB) <br>
-> Automated Tests (Selenium, Rest Assured, Appium) 
+> Automated Tests (Selenium, Rest Assured, Appium, JUnit, Mockito, TestNG) 
 
 And also about the following Design Patterns:
-> Data Transfer Object <br>
-> Singleton
+> Singleton <br>
+> Strategy <br>
+> Chain of Responsibility <br>
+> Observer <br>
+> State
 
 # 🧑🏾‍💻 What am I studying?:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws,rabbitmq,kafka,redis)](https://skillicons.dev)
 > Java <br>
-> Spring Framework (Spring Boot, Spring Data JPA, Spring Security) <br>
+> Spring Framework (Spring Boot, Spring Data, Spring Security, Spring Cloud) <br>
 > Microservices Architecture <br>
-> Messaging <br>
+> Messaging (RabbitMQ, Kafka, AWS SQS, AWS SNS) <br>
 > Docker <br>
 > AWS <br>
-> RabbitMQ <br>
-> Kafka <br>
 > Redis
 
 # Tools:
@@ -49,5 +50,3 @@ And also about the following Design Patterns:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

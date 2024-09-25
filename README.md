@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-📚I'm a Computer Science student, with interest for Software Engineer area. My objective is gain experience as a Backend developer to be a professional even more capable.<br>🌱 I’m currently learning and developing autonomous Back-end projects with Java with Spring, Microservices, Messaging and Cloud AWS.<br> 🧑🏾‍💻 I'm currently working at Santander as Software Developer Intern ♨️
+📚I'm a Computer Science student, with interest for Software Engineer area. My objective is gain experience as a Backend developer to be a professional even more capable.<br>🌱 I’m currently learning and developing Back-end autonomous projects with Java with Spring, Microservices, Messaging and Cloud AWS.<br> 🧑🏾‍💻 I'm currently working at Santander as Software Developer Intern ♨️
 
 
 ## 🌐 Socials:

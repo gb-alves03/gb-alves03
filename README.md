@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-📚I'm a Computer Science student, with interest for Software Engineer Back-end area. My objective is gain experience as a Backend developer to be a professional even more capable.<br>🌱 I’m currently learning and developing Back-end autonomous projects with Java with Spring, Microservices, Messaging and Cloud AWS.<br> 🧑🏾‍💻 I'm currently working at Santander as Software Developer Intern ♨️
+📚I'm a Computer Science student, with interest for Software Engineer Back-end area. My goal is gain experience as a Backend developer to be a professional even more capable.<br>🌱 I’m currently learning and developing Back-end autonomous projects with Java with Spring, Microservices, Messaging and Cloud AWS.<br> 🧑🏾‍💻 I'm currently working at Santander as Software Developer Intern ♨️
 
 
 ## 🌐 Socials:
@@ -9,11 +9,12 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,rabbitmq,docker,postgres,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,rabbitmq,aws,docker,postgres,mysql,mongodb)](https://skillicons.dev)
 
 Here you'll find some of my projects focused in the following technologies and architectures:
 > Java <br>
 > Spring Framework (Spring Boot, Spring Data, Spring Security, Spring Cloud) <br>
+> AWS (SNS, SQS, EC2, RDS, API Gateway) <br>
 > Relational Databases (Oracle SQL, MySQL, PostgreSQL, H2 Database) <br>
 > Non-relational Databases (MongoDB) <br>
 > Automated Tests (Selenium, Rest Assured, Appium, JUnit, Mockito, TestNG) <br>

@@ -11,12 +11,13 @@
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,rabbitmq,docker,postgres,mysql,mongodb)](https://skillicons.dev)
 
-Here you'll find some of my projects focused in the following technologies:
+Here you'll find some of my projects focused in the following technologies and architectures:
 > Java <br>
 > Spring Framework (Spring Boot, Spring Data, Spring Security, Spring Cloud) <br>
 > Relational Databases (Oracle SQL, MySQL, PostgreSQL, H2 Database) <br>
 > Non-relational Databases (MongoDB) <br>
-> Automated Tests (Selenium, Rest Assured, Appium, JUnit, Mockito, TestNG) 
+> Automated Tests (Selenium, Rest Assured, Appium, JUnit, Mockito, TestNG) <br>
+> Software Architecture: Clean Architecture, Microservices Architecture, Event-Driven Architecture, Domain-Driven Design, SOLID Principles
 
 And also about the following Design Patterns:
 > Singleton <br>
@@ -26,8 +27,8 @@ And also about the following Design Patterns:
 > State
 
 # 🧑🏾‍💻 What am I studying?:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws,rabbitmq,kafka,redis)](https://skillicons.dev)
-> Java <br>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,spring,docker,aws,rabbitmq,kafka,redis)](https://skillicons.dev)
+> Kotlin <br>
 > Spring Framework (Spring Boot, Spring Data, Spring Security, Spring Cloud) <br>
 > Microservices Architecture <br>
 > Messaging (RabbitMQ, Kafka, AWS SQS, AWS SNS) <br>

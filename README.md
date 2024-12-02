@@ -9,16 +9,17 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,rabbitmq,aws,docker,postgres,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,rabbitmq,kafka,aws,docker,postgres,mysql,mongodb)](https://skillicons.dev)
 
 Here you'll find some of my projects focused in the following technologies and architectures:
 > Java <br>
+> Kotlin <br>
 > Spring Framework (Spring Boot, Spring Data, Spring Security, Spring Cloud) <br>
 > AWS (SNS, SQS, EC2, RDS, API Gateway) <br>
 > Relational Databases (Oracle SQL, MySQL, PostgreSQL, H2 Database) <br>
 > Non-relational Databases (MongoDB) <br>
 > Automated Tests (Selenium, Rest Assured, Appium, JUnit, Mockito, TestNG) <br>
-> Software Architecture: Clean Architecture, Microservices Architecture, Event-Driven Architecture, Domain-Driven Design, SOLID Principles
+> Software Architectures: Clean Architecture, Microservices, Event-Driven Architecture, DDD, SOLID Principles
 
 And also about the following Design Patterns:
 > Singleton <br>
@@ -28,12 +29,10 @@ And also about the following Design Patterns:
 > State
 
 # 🧑🏾‍💻 What am I studying?:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,spring,docker,aws,rabbitmq,kafka,redis)](https://skillicons.dev)
-> Kotlin <br>
-> Spring Framework (Spring Boot, Spring Data, Spring Security, Spring Cloud) <br>
+[![My Skills](https://skillicons.dev/icons?i=aws,redis)](https://skillicons.dev)
 > Microservices Architecture <br>
+> Hexagonal Architecture <br>
 > Messaging (RabbitMQ, Kafka, AWS SQS, AWS SNS) <br>
-> Docker <br>
 > AWS <br>
 > Redis
 

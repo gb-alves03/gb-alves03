@@ -15,6 +15,7 @@ Here you'll find some of my projects focused in the following technologies and a
 > Java <br>
 > Kotlin <br>
 > Spring Framework (Spring Boot, Spring Data, Spring Security, Spring Cloud) <br>
+> Angular <br>
 > AWS (SNS, SQS, EC2, RDS, API Gateway) <br>
 > Relational Databases (Oracle SQL, MySQL, PostgreSQL, H2 Database) <br>
 > Non-relational Databases (MongoDB) <br>

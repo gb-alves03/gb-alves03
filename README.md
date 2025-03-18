@@ -9,7 +9,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,rabbitmq,kafka,aws,docker,postgres,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,rabbitmq,kafka,aws,docker,postgres,mysql,mongodb)](https://skillicons.dev)
 
 Here you'll find some of my projects focused in the following technologies and architectures:
 > Java <br>

@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-📚I'm a Computer Science student, with interest for Software Engineer Back-end area. My goal is gain experience as a Backend developer to be a professional even more capable.<br>🌱 I’m currently learning and developing Back-end autonomous projects with Java with Spring, Microservices, Messaging and Cloud AWS.<br> 🧑🏾‍💻 I'm currently working at Santander as Software Developer Intern ♨️
+📚I'm a Computer Science student and passionate for Software Engineer area.<br>🧑🏾‍💻 I'm currently working at Santander as Software Engineer ♨️
 
 
 ## 🌐 Socials:
@@ -28,14 +28,6 @@ And also about the following Design Patterns:
 > Chain of Responsibility <br>
 > Observer <br>
 > State
-
-# 🧑🏾‍💻 What am I studying?:
-[![My Skills](https://skillicons.dev/icons?i=aws,redis)](https://skillicons.dev)
-> Microservices Architecture <br>
-> Hexagonal Architecture <br>
-> Messaging (RabbitMQ, Kafka, AWS SQS, AWS SNS) <br>
-> AWS <br>
-> Redis
 
 # Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,gitlab,github,git)](https://skillicons.dev)
